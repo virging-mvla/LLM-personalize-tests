@@ -1,7 +1,7 @@
 # LLM-personalize-tests
 
 DATA : 
-- Data is stored at data-master/gvirgink/BGLobe-filtered.
+- Data is stored at /home/gvirgink/articles/combined_data_80k.tsv.
 - All data is stored in a file called combined_data_80k.tsv.
 - Entries from 2017 are used for training, first half 2018 for validation, second half 2018 for test. Users who had impressions in both 2017 and 2018 may appear in both train and validation/test.
 - First 40k entries are used for training, next 20k for validation, final 20k for test.
